@@ -1,2 +1,1 @@
-# SmartParkingApp
-An Android app that fetches data from Melbourne Open Data and present empty car park space for a user
+# mobile-computing-s2-2019

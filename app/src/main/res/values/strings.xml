@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartParking</string>
+    <string name="bottom_navigation_map">Map</string>
+    <string name="bottom_navigation_list">List</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="user_profile">Profile</string>
+    <string name="find_my_car">Find My Car</string>
+    <string name="information">Information</string>
+    <string name="timer">Timer</string>
+    <string name="not_login_remind">Sorry, please login in first!</string>
+    <string name="phone_call_number">+61 3 9658 9658</string>
+
+    <string name="map_api_key">AIzaSyAj_20wVrCc4Vl67eUC9MDJ5R1GTCXLnuU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/user_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/user_profile"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/find_my_car"
+        android:title="@string/find_my_car"
+        android:icon="@drawable/ic_find_car"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/timer"
+        android:title="@string/timer"
+        android:icon="@drawable/ic_timer"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/information"
+        android:title="@string/information"
+        android:icon="@drawable/ic_info"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/login"
+        android:title="Login"
+        android:icon="@drawable/ic_login"/>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+
+
+</menu>
